@@ -2,4 +2,4 @@
 
 This is me leaning GitHub to code||
 
-Learned from Youtube
+Learned from Youtube but its easy
